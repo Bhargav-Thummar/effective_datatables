@@ -20,3 +20,5 @@
 
 //= require effective_datatables/charts
 //= require effective_datatables/initialize
+
+console.log("effective_datatable initialized");
